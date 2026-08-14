@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-v7yuza.indocuansite.space/sitemap.xml
